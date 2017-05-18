@@ -1,5 +1,5 @@
 {
-    "name": "drauta/ovh-object-storage-laravel",
+    "name": "tyldar/ovh-object-storage-laravel",
     "description": "Integration with Ovh object container",
 	"keywords": ["runabove", "laravel"],
 	"license": "MIT",
@@ -19,7 +19,12 @@
         {
         	"name": "Drauta",
         	"email": "drauta@drauta.com"
+        },
+	{
+            	"name": "Tyldar",
+            	"email": ""
         }
+		    
     ],
     "require": {
         "php": ">=5.4.0",
